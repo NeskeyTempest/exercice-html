@@ -1,0 +1,33 @@
+li{
+    background-color: blue; 
+}
+
+.Liclass{
+    color: red;
+    font-size: 40px;font-style: italic;
+}
+.AClass{
+    color: pink; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#H1d1{
+    background-color: aqua;color: brown; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.Pclass{
+    font-family: "Fira Sans" , Arial, sans-serif;
+    font-size: 40px; 
+}
+.border{
+    font-family: fantasy; font-size: 50px;
+    color: crimson; background-color: chartreuse;
+    border-left-color: blue; border-right-color: blue; border-top-color: blue; border-bottom-color: blue;
+}
+#H2d2{
+    background-color: blue;color: black;
+    font-size: 90px;
+}
+.footer{
+    color: cyan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 100px;
+}
